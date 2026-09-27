@@ -1,14 +1,14 @@
-## E-Commerce Sales Dashboard | Power BI
+# E-Commerce Sales Dashboard | Power BI
 
 Developed an interactive **E-Commerce Sales Dashboard using Microsoft Power BI** to analyze sales, profit, quantity, customer performance, product performance, payment modes, and regional trends.
 
-### Data Source
+## Data Source
 
 * Used **Orders.csv** and **Details.csv** as the primary datasets.
 * The CSV files are uploaded and maintained in **GitHub** for project data management and accessibility.
 * Imported the CSV data into Power BI for analysis and visualization.
 
-### Key Features & Highlights
+## Key Features & Highlights
 
 * Imported CSV datasets into **Power BI**.
 * Used **Power Query** for data cleaning, transformation, and preparation.
@@ -21,10 +21,10 @@ Developed an interactive **E-Commerce Sales Dashboard using Microsoft Power BI**
 * Designed an interactive and user-friendly **Power BI dashboard**.
 * Generated meaningful business **insights from the dashboard** to support sales and profitability analysis.
 
-### Tools & Technologies
+## Tools & Technologies
 
 **Power BI | Power Query | DAX | CSV | GitHub | Data Cleaning | Data Visualization | KPI Analysis**
 
-### Insights
+## Insights
 
 The dashboard helps analyze overall sales and profitability, identify high-performing products and categories, compare state-wise performance, understand customer and payment-mode behavior, and track monthly profit trends.
